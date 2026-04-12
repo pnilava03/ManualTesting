@@ -29,4 +29,14 @@ Exploratory Testing
 ## Folder Structure
 <img width="706" height="320" alt="FolderStructure" src="https://github.com/user-attachments/assets/5b1ea355-239f-4fed-83a5-cbe8d70acc3f" />
 
+## Repository Structure
+- Test Strategy
+- Test Plan
+- Test Cases
+- Bug Reports
+- QA Status Report
+- Test Summary Report
+- UAT Checklist
+- Screenshots
+
 This repository represents enterprise-level QA documentation used for real-world testing engagements.
