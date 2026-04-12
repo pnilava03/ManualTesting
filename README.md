@@ -27,7 +27,7 @@ This demonstrates end-to-end manual testing approach including:
 - Exploratory Testing  
 
 ## Folder Structure
-<img width="706" height="320" alt="FolderStructure" src="https://github.com/user-attachments/assets/5b1ea355-239f-4fed-83a5-cbe8d70acc3f" />
+<img width="681" height="314" alt="image" src="https://github.com/user-attachments/assets/58289fd5-a754-41c6-af1c-36ad7c21eb4f" />
 
 ## Repository Structure
 - Test Strategy
